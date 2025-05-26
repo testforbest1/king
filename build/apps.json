@@ -1,0 +1,43 @@
+{
+    "android": [
+        {
+            "name": "Hiddify",
+            "description": "برنامه پیشنهادی",
+            "suggested": true,
+            "downloadLink": "https://github.com/hiddify/HiddifyNG/releases/latest",
+            "addLink": "hiddify://import/{url}#{name}"
+        },
+        {
+            "name": "V2box",
+            "description": "غیر پیشنهادی",
+            "suggested": false,
+            "downloadLink": "https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box",
+            "addLink": "v2box://install-sub?url={url}&name={name}"
+        }
+    ],
+    "windows": [
+        {
+            "name": "Hiddify",
+            "description": "برنامه پیشنهادی",
+            "suggested": true,
+            "downloadLink": "https://github.com/hiddify/hiddify-app/releases/latest",
+            "addLink": "hiddify://import/{url}#{name}"
+        },
+        {
+            "name": "v2rayN",
+            "description": "غیر پیشنهادی",
+            "suggested": false,
+            "downloadLink": "https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-With-Core.zip",
+            "addLink": ""
+        }
+    ],
+    "ios": [
+        {
+            "name": "Hiddify",
+            "description": "برنامه پیشنهادی",
+            "suggested": true,
+            "downloadLink": "https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532",
+            "addLink": "hiddify://import/{url}#{name}"
+        }
+    ]
+}
