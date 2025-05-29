@@ -4,7 +4,7 @@
             "name": "Hiddify",
             "description": "برنامه پیشنهادی",
             "suggested": true,
-            "downloadLink": "https://github.com/hiddify/HiddifyNG/releases/latest",
+            "downloadLink": "https://github.com/hiddify/hiddify-next/releases/download/v2.5.7/Hiddify-Android-universal.apk",
             "addLink": "hiddify://import/{url}#{name}"
         },
         {
@@ -20,7 +20,7 @@
             "name": "Hiddify",
             "description": "برنامه پیشنهادی",
             "suggested": true,
-            "downloadLink": "https://github.com/hiddify/hiddify-app/releases/latest",
+            "downloadLink": "https://github.com/hiddify/hiddify-next/releases/download/v2.5.7/Hiddify-Windows-Setup-x64.exe",
             "addLink": "hiddify://import/{url}#{name}"
         },
         {
