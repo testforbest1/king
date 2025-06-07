@@ -22,13 +22,6 @@
             "suggested": true,
             "downloadLink": "https://github.com/hiddify/hiddify-next/releases/download/v2.5.7/Hiddify-Windows-Setup-x64.exe",
             "addLink": "hiddify://import/{url}#{name}"
-        },
-        {
-            "name": "v2rayN",
-            "description": "غیر پیشنهادی",
-            "suggested": false,
-            "downloadLink": "https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-With-Core.zip",
-            "addLink": ""
         }
     ],
     "ios": [
