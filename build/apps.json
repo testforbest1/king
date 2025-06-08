@@ -2,27 +2,35 @@
     "android": [
         {
             "name": "Hiddify",
-            "description": "برنامه پیشنهادی",
+            "description": "",
             "suggested": true,
             "downloadLink": "https://github.com/hiddify/hiddify-next/releases/download/v2.5.7/Hiddify-Android-universal.apk",
             "addLink": "hiddify://import/{url}#{name}"
         },
         {
-            "name": "V2box",
-            "description": "غیر پیشنهادی",
+            "name": "happ",
+            "description": "",
             "suggested": false,
-            "downloadLink": "https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box",
+            "downloadLink": "https://play.google.com/store/apps/details?id=com.happproxy",
             "addLink": "v2box://install-sub?url={url}&name={name}"
         }
     ],
     "windows": [
         {
             "name": "Hiddify",
-            "description": "برنامه پیشنهادی",
+            "description": "",
             "suggested": true,
             "downloadLink": "https://github.com/hiddify/hiddify-next/releases/download/v2.5.7/Hiddify-Windows-Setup-x64.exe",
             "addLink": "hiddify://import/{url}#{name}"
+        },
+        {
+            "name": "happ",
+            "description": "",
+            "suggested": true,
+            "downloadLink": "https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x86.exe",
+            "addLink": "hiddify://import/{url}#{name}"
         }
+
     ],
     "ios": [
         {
@@ -30,6 +38,13 @@
             "description": "برنامه پیشنهادی",
             "suggested": true,
             "downloadLink": "https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532",
+            "addLink": "hiddify://import/{url}#{name}"
+        },
+        {
+            "name": "happ",
+            "description": "برنامه پیشنهادی",
+            "suggested": true,
+            "downloadLink": "https://apps.apple.com/us/app/happ-proxy-utility/id6504287215",
             "addLink": "hiddify://import/{url}#{name}"
         }
     ]
