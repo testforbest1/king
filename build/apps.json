@@ -12,7 +12,7 @@
             "description": "پایداری بالا، طراحی ساده، اتصال هوشمند – همه چی آماده‌ست!",
             "suggested": false,
             "downloadLink": "https://play.google.com/store/apps/details?id=com.happproxy",
-            "addLink": "hiddify://import/{url}#{name}"
+            "addLink": "happ://import/{url}#{name}"
         }
     ],
     "windows": [
@@ -28,7 +28,7 @@
             "description": "پایداری بالا، طراحی ساده، اتصال هوشمند – همه چی آماده‌ست!",
             "suggested": true,
             "downloadLink": "https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x86.exe",
-            "addLink": "hiddify://import/{url}#{name}"
+            "addLink": "happ://import/{url}#{name}"
         }
 
     ],
@@ -45,7 +45,7 @@
             "description": "پایداری بالا، طراحی ساده، اتصال هوشمند – همه چی آماده‌ست!",
             "suggested": true,
             "downloadLink": "https://apps.apple.com/us/app/happ-proxy-utility/id6504287215",
-            "addLink": "hiddify://import/{url}#{name}"
+            "addLink": "happ://import/{url}#{name}"
         }
     ]
 }
