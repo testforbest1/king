@@ -2,7 +2,10 @@
     "android": [
         {
             "name": "Hiddify",
-            "description": "",
+            "description": "
+فقط با یک کلیک وصل شو به سریع‌ترین سرور، بدون دردسر تنظیمات!
+ساده، سبک، امن — مخصوص سرویس‌های حرفه‌ای مثل مولتی‌لوکیشن.
+            ",
             "suggested": true,
             "downloadLink": "https://github.com/hiddify/hiddify-next/releases/download/v2.5.7/Hiddify-Android-universal.apk",
             "addLink": "hiddify://import/{url}#{name}"
@@ -18,14 +21,20 @@
     "windows": [
         {
             "name": "Hiddify",
-            "description": "",
+            "description": "
+فقط با یک کلیک وصل شو به سریع‌ترین سرور، بدون دردسر تنظیمات!
+ساده، سبک، امن — مخصوص سرویس‌های حرفه‌ای مثل مولتی‌لوکیشن.
+            ",
             "suggested": true,
             "downloadLink": "https://github.com/hiddify/hiddify-next/releases/download/v2.5.7/Hiddify-Windows-Setup-x64.exe",
             "addLink": "hiddify://import/{url}#{name}"
         },
         {
             "name": "happ",
-            "description": "",
+            "description": "
+فقط با یک کلیک وصل شو به سریع‌ترین سرور، بدون دردسر تنظیمات!
+ساده، سبک، امن — مخصوص سرویس‌های حرفه‌ای مثل مولتی‌لوکیشن.
+            ",
             "suggested": true,
             "downloadLink": "https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x86.exe",
             "addLink": "hiddify://import/{url}#{name}"
@@ -35,7 +44,10 @@
     "ios": [
         {
             "name": "Hiddify",
-            "description": "برنامه پیشنهادی",
+            "description": "
+فقط با یک کلیک وصل شو به سریع‌ترین سرور، بدون دردسر تنظیمات!
+ساده، سبک، امن — مخصوص سرویس‌های حرفه‌ای مثل مولتی‌لوکیشن.
+            ",
             "suggested": true,
             "downloadLink": "https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532",
             "addLink": "hiddify://import/{url}#{name}"
